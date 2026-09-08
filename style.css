@@ -487,3 +487,10 @@ footer a { color: var(--accent); font-weight: 700; }
   transform: translateY(-3px);
   box-shadow: 0 14px 35px rgba(25, 30, 45, .07);
 }
+.logo img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+}
